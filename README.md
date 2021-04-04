@@ -1,2 +1,2 @@
-# DIV2K
+# DIV2Kdata
 DATASETS
